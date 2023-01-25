@@ -1,0 +1,15 @@
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\obj\Debug\net6.0\parameterized function.csproj.AssemblyReference.cache
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\obj\Debug\net6.0\parameterized function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\obj\Debug\net6.0\parameterized function.AssemblyInfoInputs.cache
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\obj\Debug\net6.0\parameterized function.AssemblyInfo.cs
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\obj\Debug\net6.0\parameterized function.csproj.CoreCompileInputs.cache
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\bin\Debug\net6.0\parameterized function.exe
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\bin\Debug\net6.0\parameterized function.deps.json
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\bin\Debug\net6.0\parameterized function.runtimeconfig.json
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\bin\Debug\net6.0\parameterized function.dll
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\bin\Debug\net6.0\parameterized function.pdb
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\obj\Debug\net6.0\parameterized function.dll
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\obj\Debug\net6.0\refint\parameterized function.dll
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\obj\Debug\net6.0\parameterized function.pdb
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\obj\Debug\net6.0\parameterized function.genruntimeconfig.cache
+C:\Users\keerthana J\source\repos\parameterized function\parameterized function\obj\Debug\net6.0\ref\parameterized function.dll
