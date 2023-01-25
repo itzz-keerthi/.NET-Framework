@@ -1,0 +1,15 @@
+C:\Users\keerthana J\source\repos\functions\functions\bin\Debug\net6.0\functions.exe
+C:\Users\keerthana J\source\repos\functions\functions\bin\Debug\net6.0\functions.deps.json
+C:\Users\keerthana J\source\repos\functions\functions\bin\Debug\net6.0\functions.runtimeconfig.json
+C:\Users\keerthana J\source\repos\functions\functions\bin\Debug\net6.0\functions.dll
+C:\Users\keerthana J\source\repos\functions\functions\bin\Debug\net6.0\functions.pdb
+C:\Users\keerthana J\source\repos\functions\functions\obj\Debug\net6.0\functions.csproj.AssemblyReference.cache
+C:\Users\keerthana J\source\repos\functions\functions\obj\Debug\net6.0\functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keerthana J\source\repos\functions\functions\obj\Debug\net6.0\functions.AssemblyInfoInputs.cache
+C:\Users\keerthana J\source\repos\functions\functions\obj\Debug\net6.0\functions.AssemblyInfo.cs
+C:\Users\keerthana J\source\repos\functions\functions\obj\Debug\net6.0\functions.csproj.CoreCompileInputs.cache
+C:\Users\keerthana J\source\repos\functions\functions\obj\Debug\net6.0\functions.dll
+C:\Users\keerthana J\source\repos\functions\functions\obj\Debug\net6.0\refint\functions.dll
+C:\Users\keerthana J\source\repos\functions\functions\obj\Debug\net6.0\functions.pdb
+C:\Users\keerthana J\source\repos\functions\functions\obj\Debug\net6.0\functions.genruntimeconfig.cache
+C:\Users\keerthana J\source\repos\functions\functions\obj\Debug\net6.0\ref\functions.dll
