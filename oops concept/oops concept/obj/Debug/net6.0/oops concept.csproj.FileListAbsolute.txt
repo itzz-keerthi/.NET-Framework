@@ -1,0 +1,15 @@
+C:\Users\keerthana J\source\repos\oops concept\oops concept\bin\Debug\net6.0\oops concept.exe
+C:\Users\keerthana J\source\repos\oops concept\oops concept\bin\Debug\net6.0\oops concept.deps.json
+C:\Users\keerthana J\source\repos\oops concept\oops concept\bin\Debug\net6.0\oops concept.runtimeconfig.json
+C:\Users\keerthana J\source\repos\oops concept\oops concept\bin\Debug\net6.0\oops concept.dll
+C:\Users\keerthana J\source\repos\oops concept\oops concept\bin\Debug\net6.0\oops concept.pdb
+C:\Users\keerthana J\source\repos\oops concept\oops concept\obj\Debug\net6.0\oops concept.csproj.AssemblyReference.cache
+C:\Users\keerthana J\source\repos\oops concept\oops concept\obj\Debug\net6.0\oops concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keerthana J\source\repos\oops concept\oops concept\obj\Debug\net6.0\oops concept.AssemblyInfoInputs.cache
+C:\Users\keerthana J\source\repos\oops concept\oops concept\obj\Debug\net6.0\oops concept.AssemblyInfo.cs
+C:\Users\keerthana J\source\repos\oops concept\oops concept\obj\Debug\net6.0\oops concept.csproj.CoreCompileInputs.cache
+C:\Users\keerthana J\source\repos\oops concept\oops concept\obj\Debug\net6.0\oops concept.dll
+C:\Users\keerthana J\source\repos\oops concept\oops concept\obj\Debug\net6.0\refint\oops concept.dll
+C:\Users\keerthana J\source\repos\oops concept\oops concept\obj\Debug\net6.0\oops concept.pdb
+C:\Users\keerthana J\source\repos\oops concept\oops concept\obj\Debug\net6.0\oops concept.genruntimeconfig.cache
+C:\Users\keerthana J\source\repos\oops concept\oops concept\obj\Debug\net6.0\ref\oops concept.dll
