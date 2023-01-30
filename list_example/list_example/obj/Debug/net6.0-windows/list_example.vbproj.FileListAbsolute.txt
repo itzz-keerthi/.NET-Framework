@@ -1,0 +1,17 @@
+C:\Users\keerthana J\source\repos\list_example\list_example\bin\Debug\net6.0-windows\list_example.exe
+C:\Users\keerthana J\source\repos\list_example\list_example\bin\Debug\net6.0-windows\list_example.deps.json
+C:\Users\keerthana J\source\repos\list_example\list_example\bin\Debug\net6.0-windows\list_example.runtimeconfig.json
+C:\Users\keerthana J\source\repos\list_example\list_example\bin\Debug\net6.0-windows\list_example.dll
+C:\Users\keerthana J\source\repos\list_example\list_example\bin\Debug\net6.0-windows\list_example.pdb
+C:\Users\keerthana J\source\repos\list_example\list_example\obj\Debug\net6.0-windows\list_example.vbproj.AssemblyReference.cache
+C:\Users\keerthana J\source\repos\list_example\list_example\obj\Debug\net6.0-windows\list_example.Form1.resources
+C:\Users\keerthana J\source\repos\list_example\list_example\obj\Debug\net6.0-windows\list_example.vbproj.GenerateResource.cache
+C:\Users\keerthana J\source\repos\list_example\list_example\obj\Debug\net6.0-windows\list_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keerthana J\source\repos\list_example\list_example\obj\Debug\net6.0-windows\list_example.AssemblyInfoInputs.cache
+C:\Users\keerthana J\source\repos\list_example\list_example\obj\Debug\net6.0-windows\list_example.AssemblyInfo.vb
+C:\Users\keerthana J\source\repos\list_example\list_example\obj\Debug\net6.0-windows\list_example.vbproj.CoreCompileInputs.cache
+C:\Users\keerthana J\source\repos\list_example\list_example\obj\Debug\net6.0-windows\list_example.dll
+C:\Users\keerthana J\source\repos\list_example\list_example\obj\Debug\net6.0-windows\refint\list_example.dll
+C:\Users\keerthana J\source\repos\list_example\list_example\obj\Debug\net6.0-windows\list_example.pdb
+C:\Users\keerthana J\source\repos\list_example\list_example\obj\Debug\net6.0-windows\list_example.genruntimeconfig.cache
+C:\Users\keerthana J\source\repos\list_example\list_example\obj\Debug\net6.0-windows\ref\list_example.dll
