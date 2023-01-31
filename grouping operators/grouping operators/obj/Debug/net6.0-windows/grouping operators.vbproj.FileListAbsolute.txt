@@ -1,0 +1,17 @@
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\bin\Debug\net6.0-windows\grouping operators.exe
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\bin\Debug\net6.0-windows\grouping operators.deps.json
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\bin\Debug\net6.0-windows\grouping operators.runtimeconfig.json
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\bin\Debug\net6.0-windows\grouping operators.dll
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\bin\Debug\net6.0-windows\grouping operators.pdb
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\obj\Debug\net6.0-windows\grouping operators.vbproj.AssemblyReference.cache
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\obj\Debug\net6.0-windows\grouping_operators.Form1.resources
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\obj\Debug\net6.0-windows\grouping operators.vbproj.GenerateResource.cache
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\obj\Debug\net6.0-windows\grouping operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\obj\Debug\net6.0-windows\grouping operators.AssemblyInfoInputs.cache
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\obj\Debug\net6.0-windows\grouping operators.AssemblyInfo.vb
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\obj\Debug\net6.0-windows\grouping operators.vbproj.CoreCompileInputs.cache
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\obj\Debug\net6.0-windows\grouping operators.dll
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\obj\Debug\net6.0-windows\refint\grouping operators.dll
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\obj\Debug\net6.0-windows\grouping operators.pdb
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\obj\Debug\net6.0-windows\grouping operators.genruntimeconfig.cache
+C:\Users\keerthana J\source\repos\grouping operators\grouping operators\obj\Debug\net6.0-windows\ref\grouping operators.dll
