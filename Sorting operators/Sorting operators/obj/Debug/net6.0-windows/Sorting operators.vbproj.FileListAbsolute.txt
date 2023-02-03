@@ -1,0 +1,17 @@
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\bin\Debug\net6.0-windows\Sorting operators.exe
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\bin\Debug\net6.0-windows\Sorting operators.deps.json
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\bin\Debug\net6.0-windows\Sorting operators.runtimeconfig.json
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\bin\Debug\net6.0-windows\Sorting operators.dll
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\bin\Debug\net6.0-windows\Sorting operators.pdb
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\obj\Debug\net6.0-windows\Sorting operators.vbproj.AssemblyReference.cache
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\obj\Debug\net6.0-windows\Sorting_operators.Form1.resources
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\obj\Debug\net6.0-windows\Sorting operators.vbproj.GenerateResource.cache
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\obj\Debug\net6.0-windows\Sorting operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\obj\Debug\net6.0-windows\Sorting operators.AssemblyInfoInputs.cache
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\obj\Debug\net6.0-windows\Sorting operators.AssemblyInfo.vb
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\obj\Debug\net6.0-windows\Sorting operators.vbproj.CoreCompileInputs.cache
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\obj\Debug\net6.0-windows\Sorting operators.dll
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\obj\Debug\net6.0-windows\refint\Sorting operators.dll
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\obj\Debug\net6.0-windows\Sorting operators.pdb
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\obj\Debug\net6.0-windows\Sorting operators.genruntimeconfig.cache
+C:\Users\keerthana J\source\repos\Sorting operators\Sorting operators\obj\Debug\net6.0-windows\ref\Sorting operators.dll
